@@ -28,7 +28,7 @@ Desafío Foro Hub es un proyecto basado en Spring Boot que utiliza diversas depe
 
 ## Ejecución
 
-Para ejecutar la aplicación, usa el siguiente comando:
+1. Para ejecutar la aplicación, usa el siguiente comando:
 ```sh
 mvn spring-boot:run
 
@@ -46,6 +46,6 @@ mvn spring-boot:run
 
 ## Ejecución
 
-Para ejecutar la aplicación, usa el siguiente comando:
+1. Para ejecutar la aplicación, usa el siguiente comando:
 ```sh
 mvn spring-boot:run
